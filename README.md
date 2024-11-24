@@ -6,7 +6,7 @@ for the task I used 3 main tools:
 please run the project with npm run dev. it uses concurrent to:
 1) start the next dev server - https://localhost:3000
 2) start Inngest dashboard where you can monitor the workflow runs - http://localhost:8288/stream
-3) start sanity studio where you can view/create/modify the workflows
+3) start sanity studio where you can view/create/modify the workflows - http://localhost:3333/studio-slice-workflow/structure
 
 At the main page (https://localhost:3000), select a workflow and click the button to run it
 
